@@ -179,7 +179,7 @@ layers:
   - ''
   - ''
   - {type: held}
-  - ''
+  - SPACE
   - ''
   - {type: held}
   - ''
