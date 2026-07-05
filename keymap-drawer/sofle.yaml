@@ -131,7 +131,7 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - W
+  - ''
   - ''
   - ''
   - ''
@@ -167,7 +167,7 @@ layers:
   - ''
   - ''
   - ''
-  - RGB TOG
+  - ''
   - ''
   - ''
   - ''
@@ -179,7 +179,7 @@ layers:
   - ''
   - ''
   - {type: held}
-  - SPACE
+  - RGB TOG
   - ''
   - {type: held}
   - ''
